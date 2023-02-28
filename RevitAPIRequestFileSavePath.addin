@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIRequestFileSavePath.dll"</Assembly>
+		<AddInId>C23FD1A0-691F-4C83-9C8F-DEE4A740CB02</AddInId>
+		<FullClassName>RevitAPIRequestFileSavePath.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Запрос пути сохранения файла для Revit</Text>
+	</AddIn>
+</RevitAddIns>
